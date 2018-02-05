@@ -1,2 +1,2 @@
 # hello-world
-learning how to use an repository
+I am learning how to use an repository.
